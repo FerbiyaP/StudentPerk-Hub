@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "482471076320",
+    "project_id": "studentperkhub",
+    "storage_bucket": "studentperkhub.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482471076320:android:38b2e908b0db79ae72cb85",
+        "android_client_info": {
+          "package_name": "com.example.stuentperk_hub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482471076320-q38bo52qensfuo3718rq10em7llr5gm2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACuJUuE_8T-KVvsEdfEMHSFxfa2Qs4pOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482471076320-q38bo52qensfuo3718rq10em7llr5gm2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
